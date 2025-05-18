@@ -1,5 +1,5 @@
 {
-    "bot-name": "PRINCEAI",
+    "bot-name": "Asad",
     "description": "whatsapp user bot",
     "logo": "https://qu.ax/lwgPL.jpg",
     "keywords": ["bot"],
@@ -10,17 +10,17 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~scl/fi/qed2ifsf0x5x9rkb5wfx9/eqe39RMZRS.json?rlkey=iaqzl93vcm4sxwjtye6b2hxd4&dl=0"
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": "Asad_MD"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "6281220527432,Prince♥️The Developer"
+      "value": "923497749223"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
@@ -30,12 +30,12 @@
     "MODE": {
       "description": "choose bot mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "" 
+      "value": "." 
     },
     "antidelete": {
       "description": "Set 'private' to forward deleted messages only from private chats, 'all' to forward from both private and group chats, or 'false' to disable this feature.",
@@ -74,8 +74,8 @@
     },
     "STATUS_MSG": {
       "description": "Status reply msg",
-      "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "required": true,
+      "value": "Your Status has been seen by Asad"
     },
     "REJECTSCALLS": {
       "description": "reject calls",
@@ -94,8 +94,8 @@
     },
     "PACK_NAME": {
       "description": "put your stickers pack name",
-      "required": false,
-      "value": "Prince♥️"
+      "required": true,
+      "value": "Asad♥️"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
